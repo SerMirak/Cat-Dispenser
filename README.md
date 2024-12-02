@@ -19,7 +19,7 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 - **Remote Manual Control**: 
   - Treat dispensing triggered via a Wi-Fi-connected mobile application.
 - **Treat Level Monitoring**: 
-  - Ultrasonic sensor for real-time monitoring of treat reserves.
+  - Ultrasonic Ranger for real-time monitoring of treat reserves.
 - **Robust and Safe Design**: 
   - 3D-printed PLA structure ensures safe, durable, and daily use.
 - **Reliability and Ease of Use**: 
@@ -31,8 +31,12 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 
 - **Electronics:**
   - ESP32-S3 microcontroller for global control and connectivity.
-  - Ultrasonic sensor to detect treat levels.
-  - Servo motor to activate the dispensing mechanism.
+  - Ultrasonic Ranger to detect treat levels.
+  - Stepmotor to activate the dispensing mechanism.
+  - LED to indicate distributor status.
+  - The OLED screen displays the scheduled times for the three meals, the current time, and if it is well-connected to blynk.
+  - Button for manual dispensing.
+  - External power supply to provide a stable power supply for the motor.
 - **3D Printing:**
   - Structure and reservoir printed using PLA filament for lightweight and durable design.
 - **Programming:**
@@ -47,8 +51,7 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 ### Validated Features
 - Precise treat dispensing in both automatic and manual modes.
 - Reliable monitoring of treat levels using the ultrasonic sensor.
-- Robust design ensuring safety for pets and internal components.
-- Stable and energy-efficient system performance.
+- Robust design, ensuring safety for pets and internal components.
 
 ### Performance Analysis
 - **Precision**: Consistently accurate treat dispensing.
@@ -70,8 +73,10 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 ## 🗂️ Project Structure
 
 1. **Hardware:**
-   - ESP32-S3, ultrasonic sensor, servo motor, external power supply.
+   - ESP32-S3, Ultrasonic Ranger, Stepmotor, OLED screen, LED, Button for manual dispensing, external power supply.
 2. **Schematics and Diagrams:**
-   - Logical and assembly diagrams available in annexes.
+   - Logical and assembly diagrams
 3. **Source Code:**
-   - Manages sensors, motors, and Wi-Fi interface.
+   - Manages sensors, motors, OLED screen? Wi-Fi interface.
+
+
