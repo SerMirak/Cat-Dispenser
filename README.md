@@ -1,8 +1,8 @@
 # Cat-Dispenser
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/SerMirak/Cat-Dispenser/blob/main/logo%201.png" alt="Cat-Dispenser Logo" width="200">
-</div>
+</p>
 
 ## 📖 Description
 
