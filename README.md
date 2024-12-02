@@ -1,6 +1,6 @@
 # Cat-Dispenser
 
-![Cat-Dispenser Logo](logo 1.png)  
+![Cat-Dispenser Logo](https://github.com/SerMirak/Cat-Dispenser/blob/main/logo%201.png) 
 
 ## 📖 Description
 
