@@ -1,9 +1,5 @@
 # 🐾 Cat-Dispenser - Intelligent Treat Dispenser for Pets
 
-<p align="center">
-  <img src="https://github.com/SerMirak/Cat-Dispenser/blob/main/logo_Cat_Dispenser.png" alt="Cat-Dispenser Logo" width="200">
-</p>
-
 ## 📖 Description
 
 **Cat-Dispenser** is an innovative project designed to simplify the lives of pet owners. This smart treat dispenser leverages accessible and high-performing technologies like Arduino, combined with sensors and an ESP32-S3 microcontroller, to deliver an automated and connected experience.
@@ -70,6 +66,13 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 
 ---
 
+## 💡Logic Diagram
+
+<p align="center">
+  <img src="https://github.com/SerMirak/Cat-Dispenser/blob/main/Logic%20Diagram.png" alt="Logic Diagram" width="800" style="max-width:100%;">
+</p>
+
+
 ## 🗂️ Project Structure
 
 1. **Hardware:**
@@ -77,6 +80,6 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 2. **Schematics and Diagrams:**
    - Logical and assembly diagrams
 3. **Source Code:**
-   - Manages sensors, motors, OLED screen? Wi-Fi interface.
+   - Arduino.
 
 
