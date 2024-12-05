@@ -69,7 +69,7 @@ The project stands out for its ergonomic design, ease of use, and efficiency, al
 ## 💡Logical Diagram
 
 <p align="center">
-  <img src="https://github.com/SerMirak/Cat-Dispenser/blob/main/LogicalDiagram.png" alt="Logic Diagram" width="800" style="max-width:100%;">
+  <img src="https://github.com/SerMirak/Cat-Dispenser/blob/main/Logical%20Diagram%20FV.png" alt="Logical Diagram" width="800" style="max-width:100%;">
 </p>
 
 
